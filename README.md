@@ -10,13 +10,13 @@ CircleCI instead only reads the data from the `<failure message="...">` attribut
 ### With Cargo
 
 ```sh
-cargo install circleci-junit-fix --locked --version 0.2.0
+cargo install circleci-junit-fix --locked --version 0.2.3
 ```
 
 ### With Prebuilt Binary
 
 ```sh
-curl -sSL https://github.com/conradludgate/circleci-junit-fix/releases/download/v0.2.0/circleci-junit-fix-v0.2.0-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=/usr/bin
+curl -sSL https://github.com/conradludgate/circleci-junit-fix/releases/download/v0.2.2/circleci-junit-fix-v0.2.2-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=/usr/bin
 ```
 
 ## Usage
